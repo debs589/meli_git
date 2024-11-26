@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Vai dar pau nesse arquivo
+=======
+causando confilto
+>>>>>>> ea1d331c899b5faee54fe0b1c158639af285ab38
